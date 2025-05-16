@@ -1,4 +1,4 @@
-// bowling_game.cpp
+// bowling.cpp
 #include "bowling.h"
 
 void BowlingGame::roll(int pins) {
